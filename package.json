@@ -1,0 +1,13 @@
+{
+    "name": "pubinamarga",
+    "version": "18.11.0",
+    "description": "pubinamarga",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {
+        "qrcode": "^1.5.0"
+    },
+    "engines": {
+        "node": ">=16"
+    }
+}
